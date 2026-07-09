@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/pourbabaeiamirali-jpg/EduNova/blob/main/static/logo.png" alt="EduNova Logo" width="180">
+  <img src="https://github.com/ByteBite1391/EduNova/blob/main/static/logo.png" alt="EduNova Logo" width="180">
 </p>
 
 <h1 align="center">EduNova</h1>
@@ -86,7 +86,7 @@ EduNova/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/pourbabaeiamirali-jpg/EduNova.git
+git clone https://github.com/ByteBite1391/EduNova.git
 
 cd EduNova
 ```
